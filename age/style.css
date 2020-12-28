@@ -1,0 +1,20 @@
+.main{
+    border: ridge;
+    padding: 100px;
+    text-align: center;
+    background: whitesmoke;
+}
+
+label{
+    margin:10px;
+}
+
+.btn{
+    font-size: 16px;
+    padding: 10px 25px;
+    cursor: pointer;
+    background:#1b2e97;
+    border-radius: 7px;
+    color: white;
+    border: none;
+}
